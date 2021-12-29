@@ -18,3 +18,4 @@ wget https://raw.githubusercontent.com/lone-wind/scripts/main/remove.sh && sh re
 ```
 wget https://raw.githubusercontent.com/lone-wind/scripts/main/script.sh && sh script.sh
 ```
+...
